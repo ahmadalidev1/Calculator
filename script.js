@@ -1,5 +1,3 @@
-alert("Hello! Welcome to Calculator")
-
 
 const allBtns = document.querySelectorAll("button");
 const inp = document.querySelector("input");
